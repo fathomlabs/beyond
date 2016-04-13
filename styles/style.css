@@ -6,8 +6,22 @@ Green: light-green darken-2 #689f38
 Navy: indigo darken-4 #1a237e
 */
 
+@import url(https://fonts.googleapis.com/css?family=Gudea);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
 html {
-  font-family: 'Quicksand', sans-serif !important;
+  font-size: 1.7rem !important;
+}
+
+h3 {
+  font-family: 'Gudea', sans-serif !important;
+  font-size: 1.2rem !important;
+
+}
+
+h1, h2, h4, h5 {
+  font-size: 1.7rem;
+  font-family: 'Shadows Into Light', cursive !important;
 }
 
 nav ul a,
@@ -16,7 +30,8 @@ nav .brand-logo {
 }
 
 p {
-  line-height: 2rem;
+  font-size: 0.8rem !important;
+  line-height: 1.5rem;
 }
 
 .button-collapse {
