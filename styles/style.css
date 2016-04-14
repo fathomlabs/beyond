@@ -24,9 +24,8 @@ h1, h2, h4, h5 {
   font-family: 'Shadows Into Light', cursive !important;
 }
 
-nav ul a,
-nav .brand-logo {
-  color: #ffb300;
+.footerlink {
+  color: #1a237e !important;
 }
 
 p {
