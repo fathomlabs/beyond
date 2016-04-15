@@ -26,7 +26,8 @@ h1, h2, h4, h5 {
 }
 
 #introdiv {
-  background-image: url("../assets/intro.jpg")
+  background-image: url("../assets/intro.jpg");
+  background-position: top right;;
 }
 
 #introtext {
