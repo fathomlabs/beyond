@@ -22,6 +22,16 @@ h3 {
 h1, h2, h4, h5 {
   font-size: 1.7rem;
   font-family: 'Shadows Into Light', cursive !important;
+  color: #fff;
+}
+
+#introdiv {
+  background-image: url("../assets/intro.jpg")
+}
+
+#introtext {
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
 }
 
 .footerlink {
