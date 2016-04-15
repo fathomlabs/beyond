@@ -31,3 +31,26 @@ From [Gimbo et al., 2015](http://knowledge.e.southern.edu/ijbpgd/vol1/iss1/5/)
 - Cannot afford to get children to school
 - Traditional culture does not fit with modern educational practises
 - Extra-scholastic expenses too high
+
+
+## Random facts (some need references)
+
+- Maasai Mara has an area of 1510 sq km
+- Maasai Mara is not a national park, but a national reserve
+- Tourism in Kenya is one of the most significant parts of the economy
+- Maasai Mara and the areas surrounding it comprise a world famous tourist destination
+- Maasai Mara attracts hundreds of thousands of international visitors each year
+- The Masai Mara holds one of the last unfenced rhino populations in Africa
+- The Mara black rhino population declined from 150 animals to less than 15 in under two decades, but has begun to recover due to conservation projects
+- Maasai lands tend to be the driest and least fertile
+- There are an estimated one million Maasai living in Kenya and Tanzania
+- Approximately 290,000 tourists enjoy Masai Mara National Park every year
+- Tourism in Kenya is a 70billion KSH industry
+- the Mara National Reserve, generates an estimated £13m each year (from [here](http://www.theguardian.com/travel/2013/aug/23/masai-mara-tourism-politics))
+- of 108 tourist operations in the Mara area, only 29% were legal (from [here](http://www.theguardian.com/travel/2013/aug/23/masai-mara-tourism-politics))
+- Wildlife pays around 3,000 shillings per hectare per year, but wheat farming pays 8,000-10,000 (from [here](http://www.theguardian.com/travel/2013/aug/23/masai-mara-tourism-politics))
+
+## Existing eco-tourism in Maasai Mara
+
+- Naboisho
+- Basecamp conservatory
