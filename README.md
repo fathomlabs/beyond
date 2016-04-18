@@ -54,3 +54,4 @@ From [Gimbo et al., 2015](http://knowledge.e.southern.edu/ijbpgd/vol1/iss1/5/)
 
 - Naboisho
 - Basecamp conservatory
+- http://www.theguardian.com/travel/2012/jul/20/budget-safari-conservancy-maasai-kenya
